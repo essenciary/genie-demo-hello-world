@@ -1,0 +1,23 @@
+dev:
+  adapter:
+  database:
+  host:
+  username:
+  password:
+  port:
+
+prod:
+  adapter:
+  database:
+  host:
+  username:
+  password:
+  port:
+
+test:
+  adapter:
+  database:
+  host:
+  username:
+  password:
+  port:
