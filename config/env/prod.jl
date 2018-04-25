@@ -1,4 +1,4 @@
-using Configuration
+using Genie.Configuration
 
 export config
 

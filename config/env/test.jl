@@ -1,4 +1,4 @@
-using Configuration
+using Genie.Configuration
 
 const config =  Settings(
                   output_length       = 100,
