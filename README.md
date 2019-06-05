@@ -1,5 +1,7 @@
 ![Genie Logo](https://dl.dropboxusercontent.com/s/0dbiza50r63cvvc/genie_logo.png)
 
+# This is an old demo - please visit https://github.com/genieframework/Genie-Searchlight-example-app for a more recent one
+
 # Genie Hello World
 ### Simple Hello World demo app for Genie, the highly productive Julia web framework.
 
